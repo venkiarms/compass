@@ -46,3 +46,7 @@ app.listen(5000, ()=>{
 app.get(5000, ()=>{
     console.log("Con in 5000");
 })
+
+app.get(2000, ()=>{
+    console.log("Con in 5000");
+})
